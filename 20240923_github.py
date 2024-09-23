@@ -40,7 +40,7 @@ with col2:
 with col3:
     st.header("Bild 3")
     st.image(c)
-
+#Gino
 with col4:
     st.header("Bild 4")
     st.image(d)
@@ -57,4 +57,5 @@ with col6:
    
    
     #LG Nicolas
+
 
