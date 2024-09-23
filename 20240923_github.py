@@ -17,7 +17,7 @@ if st.button("Reset"):
 st.write(st.session_state.number)
 
 st.title("Bild anzeige")
-
+# Galatasaray
 a = (".\GP_2\Download_1.jpg")
 b = (".\GP_2\Download_2.jpg")
 c = (".\GP_2\Download_3.jpg")
@@ -53,7 +53,6 @@ with col6:
     st.header("Bild 6")
     st.image(f)
     
-
    
    
     #LG Nicolas
