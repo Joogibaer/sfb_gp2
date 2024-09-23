@@ -16,6 +16,8 @@ if st.button("Reset"):
     
 st.write(st.session_state.number)
 
+st.title("Bild anzeige")
+
 a = (".\GP_2\Download_1.jpg")
 b = (".\GP_2\Download_2.jpg")
 c = (".\GP_2\Download_3.jpg")
