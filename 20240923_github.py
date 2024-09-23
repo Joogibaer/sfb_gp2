@@ -52,3 +52,6 @@ with col5:
 with col6:
     st.header("Bild 6")
     st.image(f)
+    
+    st.title =("change Shpend")
+    
