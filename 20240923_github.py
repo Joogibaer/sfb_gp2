@@ -54,4 +54,7 @@ with col6:
     st.image(f)
     
     st.title =("change Shpend")
+
+    st.title ("Tuerkmen")
+    
     
